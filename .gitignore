@@ -54,3 +54,5 @@ frontend/.next/
 frontend/node_modules/
 backend/.DS_Store
 .DS_Store
+
+.vscode/
